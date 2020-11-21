@@ -1,10 +1,8 @@
-#  Main Takeaways
-
 Written notes from following the CIU material are collected here. With diagrams drawn in physical notebook.
 
-## Interview Process & General Interview Prep
+# Interview Process & General Interview Prep
 
-### [Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2)
+## [Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2)
 
 - Master 1 multi-paradigm language (i.e. Python).
 - Understand common algorithm space and time [Big O complexities](https://www.bigocheatsheet.com/).
@@ -14,7 +12,7 @@ Written notes from following the CIU material are collected here. With diagrams 
 
 ___
 
-### [Whiteboarding](https://writing.pupius.co.uk/whiteboarding-4df873dbba2e)
+## [Whiteboarding](https://writing.pupius.co.uk/whiteboarding-4df873dbba2e)
 
 - Get a whiteboard.
 - Slow down, be neat and explain what you're doing and why.
@@ -24,9 +22,9 @@ ___
 
 ___
 
-### [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
+## [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 
-#### Are you passionate enough about your work to share it?
+### Are you passionate enough about your work to share it?
 
 - Open source: Push projects to the public and contribute to others.
 - Publish your work: Medium, Personal blog and GitHub.
@@ -35,7 +33,7 @@ ___
 - Be somewhere for recruiters to find you, so they can reach out.
 
 
-#### Stages of recruitment
+### Stages of recruitment
 
 Example: Facebook
 
@@ -72,7 +70,7 @@ Example: Facebook
     - The recruiter is present throughout each process.
     - Make them advocate for you, by forming a bond with them through the stages 1-3.
 
-#### Takeaways
+### Takeaways
 
 - Connect and be discoverable. Make the recruiters job easy.
 - Prepare. Interviewing is a skill. Commit to the process.
@@ -82,11 +80,11 @@ Regardless of the outcome of the process. Learn from it. You've not only put in 
 
 ___
 
-### [How to get a job at the Big 4](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+## [How to get a job at the Big 4](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 
-#### Step One: Get an interview
+### Step One: Get an interview
 
-##### Resume
+#### Resume
 
   - Not longer than one page.
   - Contact information.
@@ -95,25 +93,25 @@ ___
   - Education: Place, course, date.
   - Technical skills: Programming languages, databases, devops.
 
-##### Programming Challenges
+#### Programming Challenges
 
   - Look out for tech companies putting out coding challenges.
   - Helping test yourself to create unique challenging projects.
   - Then you could use these to either interview at that company, or use as experience and something for you resume.
 
-##### Referals
+#### Referals
 
   - If you know someone at the company, ask nicely for a referal.
   - Even recruiters. As they gain to benefit from companies hiring you from their referal.
 
-#### Step Two: Do well on the interview
+### Step Two: Do well on the interview
 
-##### Coding Interview Books
+#### Coding Interview Books
 
 - Cracking the Coding Interview (6th Edt. - McDowell - 2015)
 - Programming Interview Exposed (Mongan, Giguere, Suojanen - 2012)
 
-##### Websites to Learn From
+#### Websites to Learn From
 
 - [Glassdoor](https://www.glassdoor.com/) for interview questions.
 - [Careercup](https://www.careercup.com/).
@@ -122,7 +120,7 @@ ___
 - [HackerRank](https://www.hackerrank.com/).
 - [TOPCODER](https://www.topcoder.com/).
 
-##### Mock Interviews
+#### Mock Interviews
 
 - Groups of 2-3.
 - Interviewee:
@@ -137,27 +135,27 @@ ___
 
 ___
 
-### [Cracking the Coding Interview](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
+## [Cracking the Coding Interview](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
 
-#### How You Are Judged
+### How You Are Judged
 
-##### How did you do relative to other candidates on the same question?
+#### How did you do relative to other candidates on the same question?
 
   - Not about how quickly you solved the problem.
   - It's about how quickly you solved it relative to other candidates.
   - Comparing other factors, suc as mistakes made.
   - Don't judge it based on how the interviewer reacts to you.
 
-#### Resumes and Application Process
+### Resumes and Application Process
 
-##### How to Get an Interview
+#### How to Get an Interview
 
 1. Build something.
     - Don't waste your summers (or free time).
 2. Make a "kick-ass" resume.
     - It's simple.
 
-##### How Resumes are Reviewed
+#### How Resumes are Reviewed
 
 1. Pull resume out of a giant stack.
 2. Spot-check: company names, positions, projects, schools.
@@ -167,7 +165,7 @@ Steps 1-3 take 15-30 seconds, and are followed by either a rejection or intervie
 
 4. Repeat.
 
-##### How a CS Resume Should Look
+#### How a CS Resume Should Look
 
 - Cover letter only if required.
   - Your message, email, phone call reaching out to a recruiter **is** your cover letter.
@@ -190,9 +188,9 @@ Steps 1-3 take 15-30 seconds, and are followed by either a rejection or intervie
   - No one cares about MS Office, or your interpersonal skills.
   - Only show soft skills if they can be quantified.
 
-##### Communication Tips
+#### Communication Tips
 
-###### Goals
+##### Goals
 - Answer the question.
   - If you can't match the question, at least speak coherently.
 - Deliver a **good** answer.
@@ -220,7 +218,7 @@ Steps 1-3 take 15-30 seconds, and are followed by either a rejection or intervie
         - How do you spend your typical day?
         - How do decisions get made? Who will lead me? An actual developer?
 
-###### Strategies
+##### Strategies
 Nugget first.
 - Lead with your "thesis" / nugget.
   - Grabs the listener's attention.
@@ -234,9 +232,9 @@ S.A.R.
 - Action: What did you do about it?
 - Result: What was the impact?
 
-#### Technical Skills and Interview Preparation
+### Technical Skills and Interview Preparation
 
-##### How to Study
+#### How to Study
 
 - Textbooks (e.g. CLRS) are probably overkill for the interview.
   - Interviewer will probably not remember this information.
@@ -244,7 +242,7 @@ S.A.R.
 - Write on paper/whiteboard and not in an IDE.
   - Even test it on paper first. Similar to an interview.
 
-###### Data Structures
+##### Data Structures
 
 - How to implement.
 - When to use (pros / cons).
@@ -256,7 +254,7 @@ S.A.R.
 | Trees        | Tries  | Graphs     |
 | Vectors      | Heaps  | Hashtables |
 
-###### Algorithms
+##### Algorithms
 
 - How to implement.
 - Space vs Time Complexity.
@@ -268,7 +266,7 @@ S.A.R.
 | Tree Insert / Find   | Binary Search      |
 | Breadth-First Search | Depth-First Search |
 
-###### Concepts
+##### Concepts
 
 - Not just a concept - know how to code.
 - Even if your chosen language doesn't wor directly with it. Practice the concepts by hand.
@@ -279,9 +277,9 @@ S.A.R.
 | Threading | System Design & Scalability  | Memory Management |
 | Recursion | Probability & Combinatronics | Bit Manipulation  |
 
-#### Technical Skills and Mastering the Interview
+### Technical Skills and Mastering the Interview
 
-##### Types of "Serious" Questions
+#### Types of "Serious" Questions
 
 1. Product Design Questions.
     - Mostly for PM and APM.
@@ -294,7 +292,7 @@ S.A.R.
 
 **_Skipping notes for 1 & 2._**
 
-###### Software Engineer Questions
+##### Software Engineer Questions
 
 1. Ask questions.
     - Questions are more ambiguous than they appear.
@@ -308,7 +306,7 @@ S.A.R.
 5. Test your code.
     - Making careful fixes.
 
-###### What does a "good coder" do?
+##### What does a "good coder" do?
 
 - Be methodical and don't rush.
 - Reasonably bug free.
@@ -320,9 +318,9 @@ S.A.R.
   - Good use of data structures.
   - Concise and reasonble.
 
-##### Types of Interview Questions
+#### Types of Interview Questions
 
-###### Coding & Algorithms
+##### Coding & Algorithms
 
 1. Pattern Matching
     - Compare to similar problems.
@@ -361,7 +359,7 @@ S.A.R.
       - Hash table?: Can't iterate through free nums.
     - Answer: Store free #s in Binary Search Tree. Remove when taken.
 
-###### Object Oriented Design
+##### Object Oriented Design
 
 1. Handle ambiguity.
     - What about the question is ambiguous?
@@ -382,7 +380,7 @@ Question: How would you design the data structures and objects for a restaurant?
 4. A **Party** is seated at a **Table** by a **Host**.
     - How do you know what **Tables** are availble for **Party**?
 
-###### System Design
+##### System Design
 
 1. Handle ambiguity.
     - What about hte question is ambiguous?
@@ -401,7 +399,7 @@ Question: Given millions of documents, find all documents which contain a list o
 4. Divide hash tables by file or by keyword?
 - Once you know how to solve hash tables this is purely a problem solving question.
 
-#### After Your Interview
+### After Your Interview
 
 - Follow up with your recruiter.
   - No response doesn't mean your application has been rejected.
