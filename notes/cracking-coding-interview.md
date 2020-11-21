@@ -1,8 +1,8 @@
-## [Cracking the Coding Interview](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
+# [Cracking the Coding Interview](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
 
-### How You Are Judged
+## How You Are Judged
 
-#### How did you do relative to other candidates on the same question?
+### How did you do relative to other candidates on the same question?
 
   - Not about how quickly you solved the problem.
   - It's about how quickly you solved it relative to other candidates.
@@ -11,16 +11,16 @@
 
 ___
 
-### Resumes and Application Process
+## Resumes and Application Process
 
-#### How to Get an Interview
+### How to Get an Interview
 
 1. Build something.
     - Don't waste your summers (or free time).
 2. Make a "kick-ass" resume.
     - It's simple.
 
-#### How Resumes are Reviewed
+### How Resumes are Reviewed
 
 1. Pull resume out of a giant stack.
 2. Spot-check: company names, positions, projects, schools.
@@ -30,7 +30,7 @@ Steps 1-3 take 15-30 seconds, and are followed by either a rejection or intervie
 
 4. Repeat.
 
-#### How a CS Resume Should Look
+### How a CS Resume Should Look
 
 - Cover letter only if required.
   - Your message, email, phone call reaching out to a recruiter **is** your cover letter.
@@ -53,9 +53,9 @@ Steps 1-3 take 15-30 seconds, and are followed by either a rejection or intervie
   - No one cares about MS Office, or your interpersonal skills.
   - Only show soft skills if they can be quantified.
 
-#### Communication Tips
+### Communication Tips
 
-##### Goals
+#### Goals
 - Answer the question.
   - If you can't match the question, at least speak coherently.
 - Deliver a **good** answer.
@@ -83,7 +83,7 @@ Steps 1-3 take 15-30 seconds, and are followed by either a rejection or intervie
         - How do you spend your typical day?
         - How do decisions get made? Who will lead me? An actual developer?
 
-##### Strategies
+#### Strategies
 Nugget first.
 - Lead with your "thesis" / nugget.
   - Grabs the listener's attention.
@@ -99,9 +99,9 @@ S.A.R.
 
 ___
 
-### Technical Skills and Interview Preparation
+## Technical Skills and Interview Preparation
 
-#### How to Study
+### How to Study
 
 - Textbooks (e.g. CLRS) are probably overkill for the interview.
   - Interviewer will probably not remember this information.
@@ -109,7 +109,7 @@ ___
 - Write on paper/whiteboard and not in an IDE.
   - Even test it on paper first. Similar to an interview.
 
-##### Data Structures
+#### Data Structures
 
 - How to implement.
 - When to use (pros / cons).
@@ -121,7 +121,7 @@ ___
 | Trees        | Tries  | Graphs     |
 | Vectors      | Heaps  | Hash Tables |
 
-##### Algorithms
+#### Algorithms
 
 - How to implement.
 - Space vs Time Complexity.
@@ -133,7 +133,7 @@ ___
 | Tree Insert / Find   | Binary Search      |
 | Breadth-First Search | Depth-First Search |
 
-##### Concepts
+#### Concepts
 
 - Not just a concept - know how to code.
 - Even if your chosen language doesn't wor directly with it. Practice the concepts by hand.
@@ -148,9 +148,9 @@ ___
 
 ___
 
-### Technical Skills and Mastering the Interview
+## Technical Skills and Mastering the Interview
 
-#### Types of "Serious" Questions
+### Types of "Serious" Questions
 
 1. Product Design Questions.
     - Mostly for PM and APM.
@@ -163,7 +163,7 @@ ___
 
 **_Skipping notes for 1 & 2._**
 
-##### Software Engineer Questions
+#### Software Engineer Questions
 
 1. Ask questions.
     - Questions are more ambiguous than they appear.
@@ -177,7 +177,7 @@ ___
 5. Test your code.
     - Making careful fixes.
 
-##### What does a "good coder" do?
+#### What does a "good coder" do?
 
 - Be methodical and don't rush.
 - Reasonably bug free.
@@ -189,9 +189,9 @@ ___
   - Good use of data structures.
   - Concise and reasonble.
 
-#### Types of Interview Questions
+### Types of Interview Questions
 
-##### Coding & Algorithms
+#### Coding & Algorithms
 
 1. Pattern Matching
     - Compare to similar problems.
@@ -230,7 +230,7 @@ ___
       - Hash table?: Can't iterate through free nums.
     - Answer: Store free #s in Binary Search Tree. Remove when taken.
 
-##### Object Oriented Design
+#### Object Oriented Design
 
 1. Handle ambiguity.
     - What about the question is ambiguous?
@@ -251,7 +251,7 @@ Question: How would you design the data structures and objects for a restaurant?
 4. A **Party** is seated at a **Table** by a **Host**.
     - How do you know what **Tables** are availble for **Party**?
 
-##### System Design
+#### System Design
 
 1. Handle ambiguity.
     - What about hte question is ambiguous?
@@ -272,7 +272,7 @@ Question: Given millions of documents, find all documents which contain a list o
 
 ___
 
-### After Your Interview
+## After Your Interview
 
 - Follow up with your recruiter.
   - No response doesn't mean your application has been rejected.
@@ -288,9 +288,9 @@ ___
 
 **_If anything is repeated from interviews it'll be left out or added to the previous notes._**
 
-## [Cracking the Facebook Coding Interview: Approach](https://www.youtube.com/watch?v=wCl9kvQGHPI)
+# [Cracking the Facebook Coding Interview: Approach](https://www.youtube.com/watch?v=wCl9kvQGHPI)
 
-### A Typical Technical Interview
+## A Typical Technical Interview
 
 - 5 minutes: Prior experiences.
 - 45 minutes: Answer 2 questions.
@@ -299,9 +299,9 @@ ___
 
 ---
 
-### Behavioural Questions
+## Behavioural Questions
 
-#### The Pitch / Resume Walkthrough
+### The Pitch / Resume Walkthrough
 
 - Shows of success.
   - Not necessarily what feature you implemented.
@@ -324,7 +324,7 @@ Example:
 => "In my current job, I've accomplished ___" => "Also, outside of work, I ___"
 ```
 
-#### Your Past Work
+### Your Past Work
 
 [**_Add to grid_**](#goals)
 
@@ -341,7 +341,7 @@ All past work:
 - What did you do?
 - What would you do differently?
 
-#### What You Should Be Showing Off
+### What You Should Be Showing Off
 
 - That you're **PASSIONATE**.
 - That you're **KNOWLEDGEABLE**.
@@ -349,13 +349,13 @@ All past work:
 
 ---
 
-### Design Questions
+## Design Questions
 
-#### Approach
+### Approach
 
 [**_Add to system design_**](#system-design)
 
-##### How To Answer A Question
+#### How To Answer A Question
 
 **W**hat **W**ould **Y**ou **D**o **A**t **W**ork?
 
@@ -368,7 +368,7 @@ All past work:
     - Bottlenecks and tradeoffs.
 4. Repair and redesign.
 
-##### How To Act
+#### How To Act
 
 _Using a whiteboard_
 
@@ -382,7 +382,7 @@ Teamwork
 - Be open to feedback.
 - Tweak as necessary.
 
-##### How To Prepare
+#### How To Prepare
 
 Fundamentaly problem solving questions and not about your knowledge.
 
@@ -395,7 +395,7 @@ Fundamentaly problem solving questions and not about your knowledge.
 - Practice "back-of-the-envelope" calculations.
   - You may need to work out database sizes, number of users, unique URLs, etc.
 
-##### Preparation Takeaways
+#### Preparation Takeaways
 
 - Master Big O.
 - Implement data structures and algorithms.
@@ -405,7 +405,7 @@ Fundamentaly problem solving questions and not about your knowledge.
 
 ---
 
-### Big O: Loops
+## Big O: Loops
 
 - Print 0 through N:
   - Runtime = O(N)
@@ -462,7 +462,7 @@ Fundamentaly problem solving questions and not about your knowledge.
       print A[i] + ", " + B[j]
   ```
 
-#### Loops Example
+### Loops Example
 
   ```
   int last-death = Integer.Min
@@ -552,9 +552,9 @@ ___
 
 ___
 
-### Solving Algorithms
+## Solving Algorithms
 
-#### What Is Not Expected
+### What Is Not Expected
 
 _These are nice to aim for but not crucial._
 
@@ -562,7 +562,7 @@ _These are nice to aim for but not crucial._
 - To solve immediately.
 - To code perfectly.
 
-#### What Is Expected
+### What Is Expected
 
 _Show the interviewer how you think._
 
@@ -576,20 +576,20 @@ _Show the interviewer how you think._
   - No pseudocode.
   - Write according to the rules of the language you've chosen.
 
-#### [How To Approach](https://www.slideshare.net/gayle2/cracking-the-interview-skills-coding-soft-skills-product-management-handouts)
+### [How To Approach](https://www.slideshare.net/gayle2/cracking-the-interview-skills-coding-soft-skills-product-management-handouts)
 
-##### 1. Listen
+#### 1. Listen
 
 - Pay attention to any information in the problem description.
 
-##### 2. Draw An Example
+#### 2. Draw An Example
 
 - Most examples are too small or special cases.
 - Debug your example.
 - Is it a special case?
 - It is big enough?
 
-###### Example: Intersection of Two Sorted Arrays
+##### Example: Intersection of Two Sorted Arrays
 
 - Most people will draw;
   ```
@@ -608,7 +608,7 @@ _Show the interviewer how you think._
   - Big.
   - No special cases.
 
-##### 3. Brute Force
+#### 3. Brute Force
 
 1. Brute force solution ASAP.
     - If it doesn't work, you've saved time later on spent on your "optimised" algorithm.
@@ -616,7 +616,7 @@ _Show the interviewer how you think._
 3. State a naive algorithm and it's runtime.
 4. Optimise.
 
-##### 4. Optimise
+#### 4. Optimise
 
 - Walk through the brute force with BUD optimisation.
   - Bottlenecks, Unnecessary work, Duplicated work.
@@ -629,7 +629,7 @@ _Show the interviewer how you think._
 - Make a time vs space tradeoff.
   - Could you use a hash table?
 
-##### BUD Examples: Continuing the intersection
+#### BUD Examples: Continuing the intersection
 
 ```
 [1, 12, 15, 19, 20, 21]
@@ -639,7 +639,7 @@ _Show the interviewer how you think._
     - Runtime = O(A * B)?
     - Bottleneck = Searcing.
 
-##### BUD Examples: a<sup>3</sup> + b<sup>3</sup> = c<sup>3</sup> + d<sup>3</sup>
+#### BUD Examples: a<sup>3</sup> + b<sup>3</sup> = c<sup>3</sup> + d<sup>3</sup>
 
 ```
 1 <= a, b, c, d <= 1000
@@ -722,7 +722,7 @@ for a from 1 to n
             print pair1, pair2
       ```
 
-##### BUD Examples: Space / Time Tradeoffs => Precomputing
+#### BUD Examples: Space / Time Tradeoffs => Precomputing
 
 Question: Find rectangle at origin (from top left) with biggest sum.
 
@@ -773,7 +773,7 @@ Question: Find rectangle at origin (from top left) with biggest sum.
 
 `= A + B - C + 13`
 
-##### DIY Examples: Find permutations of s (small string) within b (big string)
+#### DIY Examples: Find permutations of s (small string) within b (big string)
 
 3. Duplicates of the letters in the string, s.
     - s = abbc
@@ -782,13 +782,13 @@ Question: Find rectangle at origin (from top left) with biggest sum.
 
 **_Actually do DIY this one. Aim for O(S * B)._**
 
-##### 5. Walk Through
+#### 5. Walk Through
 
 - Before coding.
 - Go through the approach in detail.
 - Do you understand each part?
 
-##### 6. Implement
+#### 6. Implement
 
 - Write beautiful code.
   - Write in a straight line.
@@ -896,7 +896,7 @@ Question: Find rectangle at origin (from top left) with biggest sum.
 
 Found a bug? Fix it carefully.
 
-##### 5 Approaches
+#### 5 Approaches
 
 - BUD.
   - Bottlenecks.

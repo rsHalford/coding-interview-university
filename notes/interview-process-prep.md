@@ -1,5 +1,3 @@
-Written notes from following the CIU material are collected here. With diagrams drawn in physical notebook.
-
 # Interview Process & General Interview Prep
 
 ## [Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2)
