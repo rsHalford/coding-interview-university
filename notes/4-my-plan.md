@@ -1,5 +1,7 @@
 # My Plan For Learning
 
+**_Each learning block will be in it's own repository._**
+
 ## 4 Blocks
 
 - Block A: Academic
