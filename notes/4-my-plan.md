@@ -14,7 +14,7 @@
 - Block A will be undertaken parallel to Block C, as they are both designed to introduce new concepts along the way.
 - Studying the flashcards can start as soon as the first topic has been completed.
   - These will then be continuously be reviewed.
-- Once Block A is completed and all the topics and their notes / flash cards have been taken. Both Block C and D will both start in parallel.
+- Once Block A is completed and all the topics and their notes / flash cards have been taken. Both Block B and D will both start in parallel.
 
 
 ```
