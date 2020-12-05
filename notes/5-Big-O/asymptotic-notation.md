@@ -118,13 +118,13 @@ Therefore, we can know that with n >= 17. The program's runtime, T, will always 
 As when;
 - n = 0 => T(n) = 2 "seconds"; as the + 2 in the equation is the only part of the program to run (printing the answer).
 - n = 1 to 4 => The runtime is determined predominantly by the linear walk through of the array.
-- Then will every increment in n >= 5, the %age of the program's runtime is determined more and more from the nested for loop.
+- Then with every increment in n >= 5, the %age of the program's runtime is determined more and more from the nested for loop.
 
 ##### Concluding;
 - T(n) = 4n<sup>2</sup> + 16n + 2 is Θ(n<sup>2</sup>)
-  - Means that when n increases, the determining factor with regards to runtime will be realted to the n<sup>2</sup> portion of the algorithm, and not so much the bn + c processes.
+  - Means that when n increases, the determining factor with regards to runtime will be related to the n<sup>2</sup> portion of the algorithm, and not so much the bn + c processes.
     - This is why although it is always good to make sure bn + c runtimes are optimised or removed, the focus when creating algorithms for a program should be focussed initially on the big players in what determines runtime. In these examples, that has been 4n<sup>2</sup>.
-- When creating algorithms, we need to always try to make the upper bounds as lower as possible.
+- When creating algorithms, we need to always try to make the upper bounds as low as possible.
   - This means never seeing anything above O(n<sup>2</sup>) as an option, and trying to reduce this down to faster runtimes, closer to Ω(n).
 
 ---
@@ -184,7 +184,7 @@ Find the int 3 in an array [1, 2, 3, 4, 5, 6, 7, 8]
 - An array of size 16 => log<sub>2</sub>16 = 4 operations.
   - Only 1 operation longer than that of an array of size 8.
 
-- The upper and lower and lower bounds describe the range of the runtime.
+- The upper and lower bounds describe the range of the runtime.
 ```
 To find 4 in array = [1, 2, 3, 4, 5, 6, 7]
 
